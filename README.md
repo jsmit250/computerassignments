@@ -1,2 +1,1 @@
-# computerassignments
-Machine Learning CAs
+Machine Learning Computer Assignments
